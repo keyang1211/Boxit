@@ -1,0 +1,32 @@
+#domain
+hospital
+#levelname
+group44
+#colors
+red: 0, A
+blue: 1, B
+#initial
+++++++++++++++++
++01BBBBBBBBBBB +
++A             +
++A             +
++A             +
++A             +
++A             +
++A             +
++A             +
++              +
+++++++++++++++++
+#goal
+++++++++++++++++
++              +
++             A+
++             A+
++             A+
++             A+
++             A+
++             A+
++             A+
++ BBBBBBBBBBBB +
+++++++++++++++++
+#end
